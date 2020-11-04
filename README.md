@@ -1,1 +1,1 @@
-# Python random math quiz
+# Random math quiz generator using randint in python
